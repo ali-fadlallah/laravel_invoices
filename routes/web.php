@@ -22,6 +22,7 @@ use App\Http\Controllers\InvoiceArchicesController;
 |
 */
 
+// Hello New Updates //
 Route::get('/', function () {
     // return view('welcome');
 
