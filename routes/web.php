@@ -22,12 +22,11 @@ use App\Http\Controllers\InvoiceArchicesController;
 |
 */
 
-// Hello New Updates3 //
-Route::get('/', function () {
-    // return view('welcome');
+// Route::get('/', function () {
+//     // return view('welcome');
 
-    return view('auth.login');
-});
+//     return view('auth.login');
+// });
 
 // Route::get('/dashboard', function () {
 //     return view('dashboard');
